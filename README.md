@@ -1,6 +1,6 @@
 ## Hi, I'm Marco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a tech enthusiast and I am an aspiring junior web developer
+## I'm a tech enthusiast and an aspiring junior web developer
 
 - 🔭 I’m currently working on the [freeCodeCamp](https://www.freecodecamp.org/) learning program and on my portfolio
 - 🌱 I'm currently learning JavaScript and front-end development with React.
