@@ -1,4 +1,4 @@
-## Hi, I'm Marco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm Marco 
 
 ## I'm a tech enthusiast and an aspiring junior web developer
 
