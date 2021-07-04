@@ -2,9 +2,10 @@
 
 ## I'm a tech enthusiast and an aspiring junior web developer
 
-- 🔭 I’m currently working on the [freeCodeCamp](https://www.freecodecamp.org/) learning program and on my portfolio
+- 🔭 I’m currently working on the [freeCodeCamp](https://www.freecodecamp.org/) learning program (among others) and on applying Finite State Machines and statecharts to implement solid UIs.
 - 🌱 I'm currently learning JavaScript and front-end development with React.
 - 👯 I’m looking to collaborate with other developers in the community.
+- Check out [my portfolio](https://mc-developer.surge.sh).
 - ⚡ Fun fact - I love ping-pong 🏓 and synthesizers 🎛️.
 
 <hr/>
