@@ -16,3 +16,4 @@
 ![SASS](https://img.shields.io/badge/SASS-cc6699.svg?&logo=sass&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e.svg?&logo=javascript&logoColor=black)&nbsp;
 ![REACT](https://img.shields.io/badge/REACT-grey.svg?&logo=react&logoColor=blue)&nbsp;
+![XSTATE](https://img.shields.io/badge/XSTATE-000.svg?&logo=xstate&logoColor=white)&nbsp;
