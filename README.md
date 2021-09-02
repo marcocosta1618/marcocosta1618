@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on the [freeCodeCamp](https://www.freecodecamp.org/) learning program (among others) and on using Finite State Machines and statecharts to implement solid UIs.
 - 🌱 I'm currently learning JavaScript and front-end development with React.
 - 👯 I’m looking to collaborate with other developers in the community.
-- Check out [my portfolio](https://mc-developer.surge.sh).
+- Check out [my portfolio](https://marcocosta1618.github.io/portfolio/).
 - ⚡ Fun fact - I love ping-pong 🏓 and synthesizers 🎛️.
 
 <hr/>
