@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on the [freeCodeCamp](https://www.freecodecamp.org/) learning program (among others) and on using Finite State Machines and statecharts to implement solid UIs.
 - 🌱 I'm currently learning JavaScript and front-end development with React. I'm also having a crush on D3.js.
 - 👯 I’m looking to collaborate with other developers in the community.
+- I believe in free knowledge and in open source.
 - Check out [my portfolio](https://marcocosta1618.github.io/portfolio/).
 - ⚡ Fun fact - I love ping-pong 🏓 and synthesizers 🎛️.
 
@@ -18,4 +19,5 @@
 ![REACT](https://img.shields.io/badge/REACT-grey.svg?&logo=react&logoColor=blue)&nbsp;
 ![XSTATE](https://img.shields.io/badge/XSTATE-000.svg?&logo=xstate&logoColor=white)&nbsp;
 ![D3.js](https://img.shields.io/badge/D3.js-fff.svg?&logo=d3.js&logoColor=f5854b)&nbsp;
-![Express.js](https://img.shields.io/badge/Express.js-fff.svg?&logo=Express&logoColor=000)
+![Express.js](https://img.shields.io/badge/Express.js-fff.svg?&logo=Express&logoColor=000)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-fff.svg?&logo=MongoDB&logoColor=#47A248)&nbsp;
